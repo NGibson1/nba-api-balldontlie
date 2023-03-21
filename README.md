@@ -1,3 +1,32 @@
+# BallDontLie API Project
+
+### By Nigel Gibson
+
+## Dependencies
+- HTML
+- CSS
+- JS
+- jQuery
+- React.js
+- node.js
+- BallDontLie API
+
+## Quick Set-up
+- git clone  https://github.com/NGibson1/nba-api-balldontlie.git
+- cd nba-api-balldontlie
+
+## Description
+This was probably my favorite project I have worked on. Its a webpage where you can type in your favorite NBA players name and get back thier stat averages per game on the 2022-2023 seasons. Open source API 'BALLDONTLIE' provides all the data for each players stats. Names must be spelled correctly. With players who have more common names (ex. James), first and last name must be used. 
+
+## Futrue plans for this project
+- add a quick fill option for players names to avoid typing errors
+- Add a button to the webpage that allows you to add a new player to the database.
+- Add a button to the webpage that allows you to delete a player from the database.
+- Use chart.js to show statistics, and compare players stats side by side
+- Add NBA individual and team records
+- Add team stats and standings
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
